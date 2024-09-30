@@ -43,8 +43,7 @@ The application includes:
 ### Cloning the Repository
 
 To clone the repository, run the following command in your terminal:
-git clone https://github.com/bouleknadel/bouleknadel-EXO1TP1_Interfacesgraphiques.git
-
+https://github.com/bouleknadel/EXO3TP1_Interfacesgraphiques-.git
 ### Running the Application
 
 1. Open the project in Android Studio
